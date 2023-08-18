@@ -1,0 +1,24 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/irefill_it/"
+
+[social.params]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://www.youtube.com/watch?v=5Eiof847lMg&t=7s&ab_channel=SustainabilityFestival"
+
+[social.params]
+icon = "brand-youtube"

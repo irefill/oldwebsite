@@ -1,0 +1,16 @@
+# Uncomment this file to enable multilanguage site support
+
+[it]
+subtitle = "test"
+#languageName = "Italiano"
+#languagedirection = "ltr"
+#contentDir = 'post/it'    
+#title = "iRefill"
+#weight = 1
+
+[de]
+#languageName = "Deutsch"
+#languagedirection = "ltr"
+#contentDir = 'post/de'    
+#title = "iRefill"
+#weight = 1

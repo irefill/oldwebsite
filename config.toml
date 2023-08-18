@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'it'
+title = 'iRefill'
+theme = 'hugo-theme-stack'
+
